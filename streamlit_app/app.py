@@ -11,7 +11,7 @@ def load_model():
     model = models.efficientnet_b0(pretrained=False)
     num_ftrs = model.classifier[1].in_features
     model.classifier[1] = nn.Linear(num_ftrs, 4)
-    model.load_state_dict(torch.load("../models/model.pth", map_location=torch.device("cpu")))
+    model.load_state_dict(torch.load("./models/model.pth", map_location=torch.device("cpu")))
     model.eval()
     return model
 
