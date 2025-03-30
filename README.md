@@ -78,8 +78,8 @@ This will launch a web UI where you can upload fish images and get freshness cla
 ## 📌 Example Predictions
 | Sample Image | Predicted Class |
 |-------------|----------------|
-| ![Non_Fresh Gills]<img src="https://github.com/developer-jashuva/Fish-Freshness-Classification/blob/main/non_fresh_gills.JPG" width="150" height="150" /> | Non_Fresh_Gills |
-| ![Non_Fresh Eyes]<img src="https://github.com/developer-jashuva/Fish-Freshness-Classification/blob/main/non_fresh_eyes.JPG" width="150" height="150" /> | Non_Fresh_Eyes |
+| ![Non_Fresh Gills]<img src="https://github.com/developer-jashuva/Fish-Freshness-Classification/blob/main/non_fresh_gills.JPG" width="150" height="150" />| Non_Fresh_Gills |
+| ![Non_Fresh Eyes]<img src="https://github.com/developer-jashuva/Fish-Freshness-Classification/blob/main/non_fresh_eyes.JPG" width="150" height="150" />| Non_Fresh_Eyes |
 
 ## 🔥 Future Enhancements
 - Improve model accuracy with **more training data**
